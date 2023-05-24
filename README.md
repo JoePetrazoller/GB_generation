@@ -1,4 +1,5 @@
 # Grain boundary generation
+Creating grain boundaries with Atomsk and searching for the lowest configurations
 
 # 1. Generation of a tilt grain boundary using atomsk
 a. Launch "Generation.py"
@@ -12,3 +13,7 @@ a. Open "shift.py"
 b. Modify "transversal", "vertical", which corresponds to the number of transversal and vertical shifts. 50 x 25 = 1250 configurations is set by default
 c. modify "replication_y" and "replication_z", by how much time the system creating in the step 1 is duplicated.
 
+
+This script uses atomsk :
+"Atomsk: A tool for manipulating and converting atomic data files"
+Pierre Hirel, Comput. Phys. Comm. 197 (2015) 212-219 | doi:10.1016/j.cpc.2015.07.012
