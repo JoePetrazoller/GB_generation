@@ -20,10 +20,7 @@ b. Modify "transversal", "vertical", which corresponds to the number of transver
 c. modify "replication_y" and "replication_z", by how much time the system creating in the step 1 is duplicated.
 
 
-
-
-
-
+________________________________________________________
 
 This script uses atomsk :
 "Atomsk: A tool for manipulating and converting atomic data files"
